@@ -1,0 +1,1 @@
+Original files: https://github.com/FreeCAD/FreeCAD-library/blob/3494b01aac17886c9aa15c8eb6cece5c2877f5b8/Electrical%20Parts/Motors/NEMA-17_Stepper_Motor_40mm_with_connector.fcstd

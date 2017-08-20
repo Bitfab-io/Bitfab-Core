@@ -1,0 +1,1 @@
+Original file: https://github.com/FreeCAD/FreeCAD-library/blob/master/Electrical%20Parts/fans/blower-50x50mm.fcstd
