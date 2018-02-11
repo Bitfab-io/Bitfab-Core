@@ -1,0 +1,3 @@
+# ignore FreeCAD temporary files
+*.FCStd1
+*.fcstd1
